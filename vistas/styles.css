@@ -1,0 +1,75 @@
+
+
+body{
+  font-family: 'Orbitron', sans-serif;
+}
+
+#navDesignLogin {
+  background: rgb(255,255,255);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 18%, rgba(0,0,0,1) 100%);
+}
+
+#sBloqueLogin {
+  background: rgb(255,255,255);
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 70%);
+}
+
+#sBloqueRegister {
+  background: rgb(255,255,255);
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 70%);
+}
+
+#pagDesign {
+  background-color: #eef3f4;
+}
+
+#pagDesign .card {
+  width: 380px;
+  border: none;
+  height: 60px;
+}
+
+#pagDesign .ratings i {
+  color: #cecece;
+  font-size: 32px;
+}
+
+#pagDesign .rating-color {
+  color: #fbc634 !important;
+}
+
+#pagDesign .review-count {
+  font-weight: 400;
+  margin-bottom: 2px;
+  font-size: 24px !important;
+}
+
+.color-navbar {
+  background-color: #58c2bf;
+}
+
+.juego {
+  display: flex;
+}
+
+.button-margin {
+  margin-right: 61%;
+}
+
+
+.tamaño-logo {
+  height: 75px;
+}
+
+.tipo-letra h1 {
+  font-family: "Inter", sans-serif;
+}
+
+.color {
+  background-color: #e2e2ea;
+}
+
+#title{
+  color: #000000;
+}
+
